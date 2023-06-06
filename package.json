@@ -1,6 +1,6 @@
 {
   "name": "@headout/react-navigation-shared-element",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "react-native-shared-element bindings for React Navigation",
   "main": "build/index.js",
   "types": "build/index.d.ts",
