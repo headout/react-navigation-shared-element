@@ -47,3 +47,5 @@ buck-out/
 #
 package-lock.json
 /lib
+
+yalc.lock
